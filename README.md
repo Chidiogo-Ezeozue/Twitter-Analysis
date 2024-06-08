@@ -50,6 +50,13 @@ A many to one relationship was established between the tables trough modeling pr
 ### Modeled Data
 ![](tweet_modeling.PNG)
 
+## Tweet Summary Analysis
+![](tweet_summary_page.PNG)
+
+
+## Content Details Analysis
+![](tweet_details_page.PNG)
+
 
 
 
