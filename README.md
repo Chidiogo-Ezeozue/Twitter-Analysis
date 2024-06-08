@@ -51,11 +51,11 @@ A many to one relationship was established between the tables trough modeling pr
 ![](tweet_modeling.PNG)
 
 ## Tweet Summary Analysis
-![](tweet_summary_page.PNG)
+![](tweet_summary.PNG)
 
 
 ## Content Details Analysis
-![](tweet_details_page.PNG)
+![](tweet_details.PNG)
 
 
 
