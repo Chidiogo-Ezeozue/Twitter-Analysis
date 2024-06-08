@@ -48,7 +48,7 @@ Data table                                    |                                P
 A many to one relationship was established between the tables trough modeling process.
 
 ### Modeled Data
-![](twitter_modeling.PNG)
+![](tweet_modeling.PNG)
 
 
 
