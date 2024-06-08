@@ -36,14 +36,14 @@ Scraped data was extracted from Github and imported into Power Query Editor for 
 Power Bi Power Query Editor was used for cleaning and transformation. There were no blanks and errors, however, I transformed the date column using split by delimiter. I renamed the added column and changed type to reflect data accurately.
 
 ### Cleaned Data
-![](cleaned_data.PNG)
+![](twitter_cleaned_data.PNG)
 
 Data was loaded into power Bi and two extra tables were created as "Date table" and "Popular users."
 
 ### Additional Tables
 Data table                                    |                                Popular Users
 :---------------------------------------------|--------------------------------------------:
-
+![](date_measure.PNG)                         |               ![](popular_users_measure.PNG)
 
 A many to one relationship was established between the tables trough modeling process.
 
