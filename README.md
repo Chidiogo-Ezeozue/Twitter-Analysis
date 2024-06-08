@@ -1,4 +1,4 @@
-# Twitter Analysis
+# Twitter 30 Days Learning Analysis
 ![](tweet_welcome_page.PNG)
 
 
@@ -47,8 +47,8 @@ Data table                                    |                                P
 
 A many to one relationship was established between the tables trough modeling process.
 
-### Modeled Tables
-![]()
+### Modeled Data
+![](twitter_modeling.PNG)
 
 
 
