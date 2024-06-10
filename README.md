@@ -52,10 +52,27 @@ A many to one relationship was established between the tables trough modeling pr
 
 ## Tweet Summary Analysis
 ![](tweet_summary.PNG)
-
+1. Within the first two months of the 30 days learning exercise on Twitter, the community has generated 680 tweets from 205 unique contributors, showcasing a remarkable level of engagement and enthusiasm for knowledge shairng.
+2. **"Oyinbooke"** emerged as the most prolific contributor consistently engaging with hashtags and fueling discussion with valuable insights.
+3. Users engage more on weekdays, with Wednesday bein the most active day, while activity shows down significantly on weekends, indicating a clear preference for weekday learning and interaction.
+4. 60.9% of users interacting with the hashtag are using Android devices while.
+5. 30.4% interact through Web App
+6. 8.7% of users tweet with iphone.
+7. June saw a notable surge in Twitter activity with sinificant increase in the number of tweets compared to the previous month of May, indicating  growing momentum and engagement in conversations.
 
 ## Content Details Analysis
 ![](tweet_details.PNG)
+1. **Github** emerged as the most frequently mentioned tool in the conversations.
+2. **Azure** is the least mentioned, revealing a clear preference for Github among the community during the initial two-month period of the program.
+3. As shown in the Word Cloud, the top three most reoccuring hashtags are,
+* #NG30DAYSOFLEARNING with 385 mentions
+* #30DAYSOFLEARNING with 267 mentions
+* @TheOyinbooke with 116 mentions.
+
+
+## Recommendation
+1. Since majority of the tweets come from Android users, all contents should be optimized for mobile views to provide a seamless user experience. I also recommend Promotion of twitter lite, a data friendly version of the twitter app to cater to Android users with limited data plans or slower internet connection.
+2. As expected, weekend engagement is lower due to individuals prioritizing personal activities during this time. Hence, I recommend that emergency lectures and live events should not be fixed on weekends, as it is likely that majority of the audience will miss the event. However, relaxation or leisure related contents can be shared to resonate with users weekend vibes.
 
 
 
