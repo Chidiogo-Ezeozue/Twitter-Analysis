@@ -13,7 +13,7 @@ This analysis unveils hidden insights surrounding the 30 days learning activity 
 3. Details
 4. dashboard
 
-You can interact with the dashboard [here](https://app.powerbi.com/groups/me/reports/3cbe3a9e-4547-4408-9882-8734c1154848/ReportSection?experience=power-bi)
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/3cbe3a9e-4547-4408-9882-8734c1154848/ReportSection?experience=power-bi)
 
 
 ## Skills Demonstrated
@@ -72,6 +72,8 @@ A many to one relationship was established between the tables trough modeling pr
 
 ### This is the final dashboard I came up with
 ![](tweet_dashboard.PNG)
+
+Click [here](https://app.powerbi.com/groups/me/reports/3cbe3a9e-4547-4408-9882-8734c1154848/ReportSection?experience=power-bi) to interact
 
 
 ## Recommendation
