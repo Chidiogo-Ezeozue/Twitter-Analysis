@@ -70,12 +70,17 @@ A many to one relationship was established between the tables trough modeling pr
 * @TheOyinbooke with 116 mentions.
 ![](word_cloud.PNG)
 
+### This is the final dashboard I came up with
+![](tweet_dashboard.PNG)
+
 
 ## Recommendation
 1. Since majority of the tweets come from Android users, all contents should be optimized for mobile views to provide a seamless user experience. I also recommend Promotion of twitter lite, a data friendly version of the twitter app to cater to Android users with limited data plans or slower internet connection.
 2. As expected, weekend engagement is lower due to individuals prioritizing personal activities during this time. Hence, I recommend that emergency lectures and live events should not be fixed on weekends, as it is likely that majority of the audience will miss the event. However, relaxation or leisure related contents can be shared to resonate with users weekend vibes.
 
-![](THANKS.PNG)
+![](THANKS.jpg)
+
+### Thanks for getting here.
 
 
 
